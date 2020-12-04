@@ -1,0 +1,31 @@
+Items:
+java_glasses
+quality_engineer - DONE
+
+not tech support
+questionable_advice
+
+zoom planning - DONE
+slack planning
+automation
+
+first virus
+first bug v1
+first bug v2 - [NOT COLLECTED]
+
+rubber duck debugging
+hello world python - DONE
+hello world c++ - DONE
+hello world bash - DONE
+
+Permission forms:
+Prof Eliason - first bug - sent
+Arkenstorm - LS stuff - sent
+jt - first virus story - sent
+Sam - java joke - followed up
+
+I think the final format of my project will look like this: a zipped file (.zip) containing a folder with a specific structure 
+& organization of my folklore items and analysis, along with a word document explaining the organization of the project 
+(I wanted to organize and present this project as if it were one of my coding projects). The zipped folder will also be 
+hosted on another website, one that programmers use to manage their projects, and I'll include the link to that in the 
+word document, because the way the website formats it will provide the best viewing experience. 

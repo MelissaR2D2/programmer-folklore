@@ -2,6 +2,8 @@
 
 **Genre:** Custom/Material Culture
 
+**Title:** Hello World with Valgrind
+
 **Media:** C++ program
 
 **Date and Time Created:** January 2019 (approx.)
@@ -21,3 +23,7 @@ Note that the creation was a solitary act and the admission to likely copying/pa
 **Cultural Data:** This is an example of the Hello World program being used not as an introduction to a programming language, but as a setup tool. Tyla already knew how to write code in C++, but she was setting up a new code editor in preparation for a more advanced class. Valgrind is a tool used to check for "memory leaks," a type of bug where storage used by your program becomes inaccessible, but is never deleted. This type of mistake is easy to make and hard to track down, which is why external tools like Valgrind exist to find where the leaks are happening. 
 
 This Hello World program looks more complex than other Hello World Programs because of the extra code for Valgrind setup, and because of C++'s more rigid structure.
+
+**Submitted On:** 11/23/20
+
+**Submitted By:** Melissa Robertson, 20, F, ENGL391 Fall 2020, Professor Eric Eliason
