@@ -9,11 +9,11 @@ zoom planning - DONE
 slack planning - DONE
 automation - DONE
 
-first virus
-first bug v1
-[first bug v2]
+first virus - DONE
+first bug v1 - DONE
+first bug v2 - DONE
 
-rubber duck debugging
+rubber duck debugging - DONE
 
 hello world python - DONE
 hello world c++ - DONE
