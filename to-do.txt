@@ -1,28 +1,32 @@
 Items:
-java_glasses
+java_glasses - DONE
 quality_engineer - DONE
 
-not tech support
-questionable_advice
+not tech support - DONE
+questionable_advice - DONE
 
 zoom planning - DONE
-slack planning
-automation
+slack planning - DONE
+automation - DONE
 
 first virus
 first bug v1
-first bug v2 - [NOT COLLECTED]
+[first bug v2]
 
 rubber duck debugging
+
 hello world python - DONE
 hello world c++ - DONE
 hello world bash - DONE
 
+Analysis:
+
 Permission forms:
 Prof Eliason - first bug - sent
-Arkenstorm - LS stuff - sent
+Arkenstorm - LS stuff - received
 jt - first virus story - sent
-Sam - java joke - followed up
+Sam - java joke - received
+Tyla - program - received
 
 I think the final format of my project will look like this: a zipped file (.zip) containing a folder with a specific structure 
 & organization of my folklore items and analysis, along with a word document explaining the organization of the project 

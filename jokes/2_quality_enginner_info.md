@@ -14,7 +14,7 @@
 
 **Contributor Names:** Screen name is woodwalker700.
 
-**Contributor Data:** The contributor is an anonymous Reddit user.
+**Contributor Data:** The contributor is an anonymous Reddit user. More information is not available.
 
 **Social Data:** Reddit is a social media site focused on link sharing, though in the last few years it has shifted focus to sharing original content. The site is divided into "subreddits," each focused on specific topics. Content is posted as "Reddit threads" that users can then comment on. Users can reply to other users' comments, creating a forum for discussion of the content posted. Reddit has a broad user base, but is generally considered to be most popular with young white males. It often reposts or links to content from Twitter and other social media sites. This folklore item comes from the ProgrammerHumor subreddit, a subreddit dedicated to sharing programming memes and jokes. This makes it a great place to find and engage in programmer folklore.
 
