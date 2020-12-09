@@ -1,6 +1,8 @@
 **Genre:** Etiological Legend
 
-**Title** Bugs in Biscuits
+**Title** 
+
+**Permission Note:** Taken from Professor Eliason's email to me, releasing this story for my use: "Feel free to copy and paste this for your project."
 
 **Location:** Mixed phone call and personal email to me. Professor Eliason mentioned the existence of this story over the phone to me, and I requested it later via email.
 
@@ -14,7 +16,7 @@
 
 **Contributor Names:** Professor Eric Eliason
 
-**Contributor Data:** Professor of folklore at Brigham Young University. Male, 40s, white. Heard the folklore item from his programmer son-in-law.
+**Contributor Data:** Professor of folklore at Brigham Young University. Male, 53. Heard the folklore item from his programmer son-in-law.
 
 **Social Data:** I was discussing programmer folklore in preparation for this project over the phone with Professor Eliason, and I told him the story of "The Literal Bug in the Computer." He responded with this variant of the legend, which he heard from his programmer son-in-law.
 

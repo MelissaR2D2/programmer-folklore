@@ -19,12 +19,12 @@ hello world python - DONE
 hello world c++ - DONE
 hello world bash - DONE
 
-Analysis:
+Analysis: Done!
 
 Permission forms:
-Prof Eliason - first bug - sent
+Prof Eliason - first bug - received
 Arkenstorm - LS stuff - received
-jt - first virus story - sent
+jt - first virus story - received
 Sam - java joke - received
 Tyla - program - received
 
