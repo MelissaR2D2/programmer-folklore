@@ -5,9 +5,7 @@ There are several stereotypes of the programmer that might lead folklorists to b
 
 This folklore is non-traditional in one critical way: it is often *not* performed face-to-face. Much of programmer folklore (maybe even most) is performed digitally, and created and engaged with in solitude. (Given the aforementioned programmer stereotypes, this is perhaps not surprising.)
 
-However, programmer folklore has other features of folklore: it is traditional, often artistic, and highly variable. It also still fulfills common functions of folklore, including reinforcing cultural norms and establishing a sense of identity.
-
-The rest of this README will comment on and analyze the folklore items I collected personally for this project.
+However, programmer folklore has other features of folklore: it is traditional, variable, and follows stereotypical patterns. It also still fulfills common functions of folklore, including reinforcing cultural norms and establishing a sense of identity.
 
 (A README is traditional file found once in every `git` project, whose function is to provide an overview of the purpose and usage of the project, as well as any important implementation details or limitations.)
 
